@@ -14,27 +14,15 @@ I enjoy understanding how complex systems work, researching new technologies, an
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-# Languages
+Python • R 
 
-Python • R • Java • C • PHP
+PyTorch • TensorFlow • Scikit-learn • Transformers
 
-# AI & Machine Learning
+FastAPI • Spring Boot 
 
-PyTorch • TensorFlow • Scikit-learn • Transformers • LangChain • Ollama
-
-# Backend & Web
-
-FastAPI • Django • Spring Boot • React
-
-# Databases
-
-MySQL • MongoDB • Neo4j
-
-# Tools
-
-Git • REST APIs 
+MySQL • MongoDB
 
 ---
 
